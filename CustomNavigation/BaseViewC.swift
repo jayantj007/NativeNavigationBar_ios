@@ -23,8 +23,4 @@ class BaseViewC: UIViewController {
         view.addSubview(vw)
     }
     
-    override func viewDidAppear(_ animated: Bool) {
-        super.viewDidAppear(animated)
-        
-    }
 }
